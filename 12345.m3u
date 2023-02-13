@@ -9,69 +9,9 @@ http://23.111.104.132:9010/mf_320
 http://23.111.104.132:9010/mf_320
 #EXTINF:-1 ,Record Маятник Фуко
 #EXTGRP:Радио
-http://23.111.104.132:9010/mf_320
-#EXTINF:-1 ,Радио Зайцев FM-Rap
-#EXTGRP:Радио
-http://zaycevfm.cdnvideo.ru/ZaycevFM_rap_256.mp3
-#EXTINF:-1 ,Радио Зайцев FM-Rus
-#EXTGRP:Радио
-http://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
-#EXTINF:-1 ,Радио Пи FM
-#EXTGRP:Радио
-http://cdn.pifm.ru/mp3
-#EXTINF:-1 ,Радио Хайп FM
-#EXTGRP:Радио
-http://air.volna.top/HypeFM
-#EXTINF:-1 ,1.FM Absolute Euro Trance
-#EXTGRP:Радио
-http://strm112.1.fm/trance_mobile_mp3
 #EXTINF:-1 ,Record Маятник Фуко
 #EXTGRP:Радио
 http://23.111.104.132:9010/mf_320
-#EXTINF:-1 ,DFM Rap
-#EXTGRP:Радио
-https://dfm-dfmrap.hostingradio.ru/dfmrap96.aacp
-#EXTINF:-1 ,HIP HOP RADIO
-#EXTGRP:Радио
-http://tntradio.hostingradio.ru:8027/hhr128.mp3
-#EXTINF:-1 ,Record Rap Hits
-#EXTGRP:Радио
-http://23.111.104.132:9010/rap_320
-#EXTINF:-1 ,Хит FM
-#EXTGRP:Радио
-https://hitfm.hostingradio.ru/hitfm96.aacp
-#EXTINF:-1 ,164 FM: Rus
-#EXTGRP:Радио
-https://myradio24.org/49250
-#EXTINF:-1 ,Record Russian Hits
-#EXTGRP:Радио
-http://23.111.104.132:9010/russianhits_320
-#EXTINF:-1 ,Record Russian Mix
-#EXTGRP:Радио
-http://23.111.104.132:9010/rus_320
-#EXTINF:-1 ,Wow Music: Русское
-#EXTGRP:Радио
-https://stream.vyshka24.ru/wowrusskoe
-#EXTINF:-1 ,Джем FM
-#EXTGRP:Радио
-https://www.liveradio.es/online.jamfm.ru:8000/jam?128
-#EXTINF:-1 ,Душевное радио
-#EXTGRP:Радио
-http://stream.hoster.by:8081/pilotfm/audio/icecast.audio
-#EXTINF:-1 ,DFM Грустный Дэнс
-#EXTGRP:Радио
-https://dfm-saddance.hostingradio.ru/saddance96.aacp
-#EXTINF:-1 ,Record Руки Вверх!
-#EXTGRP:Радио
-http://23.111.104.132:9010/rv_320
-#EXTINF:-1 ,Record Гоп ФМ
-#EXTGRP:Радио
-http://23.111.104.132:9010/gop_320
- group-title="Радио", Радио Зайцев FM-Rap
-
-7
-
-
 
 
 

@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-name="Радио ФМ-на Дону" group-title="Радио", Радио ФМ-на Дону
+#EXTGRP:Радио
+http://radio.mediacdn.ru/fm_na_donu.mp3
 #EXTINF:-1 ,Record Маятник Фуко
 #EXTGRP:Радио
 http://23.111.104.132:9010/mf_320

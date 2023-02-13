@@ -1,3 +1,9 @@
+#EXTINF:-1 ,Record Руки Вверх!
+#EXTGRP:Радио
+http://23.111.104.132:9010/rv_320
+#EXTINF:-1 ,Record Гоп ФМ
+#EXTGRP:Радио
+http://23.111.104.132:9010/gop_320
 #EXTINF:-1 ,Record Маятник Фуко
 #EXTGRP:Радио
 http://23.111.104.132:9010/mf_320
